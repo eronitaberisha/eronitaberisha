@@ -1,0 +1,30 @@
+Kerkesat e dorezimit te dyte (FINAL) te projektit - Front-End dhe Back-End
+
+1. Web-faqja duhet t'i kete minimumi 3 faqe (pages) si p.sh: Faqen kryesore (index.php), Products (Posts), Contact us (te cilat jane obligative), ndersa:  About us, News etj, jane opsionale. 
+
+2. Te kete login dhe register funksional, si dhe gjate procesit te logimit te kete role, psh: admin dhe perdorues i thjeshte.
+
+3. Varesisht faqeve qe keni p.sh News/Portfolio/Products etj, te jene teresisht te populluara nga databaza
+
+       3.1 Duhet te kete tekst dhe foto ne lajmin/produktin e shtuar.
+
+       3.2 Te dhenat nga faqja contact form te ruhen ne databaze dhe te ofrohet mundesia qe te dhenat e ruajtura te lexohen nga administratori me vone ne pjesen e Dashboard.
+
+4. Te kete nje dashboard te thjesht per administratorin, i cili menaxhon faqen me loginin e tij me te drejtat specifike te tij.
+
+5. Ne faqen kryesore dhe pothuajse ne secilin faqe te dhenat te lexohen nga databaza dmth mos te kete shume permbajtje statike ne pergjithesi.
+
+6. Projektet te cilat nuk kane back end por vetëm HTML/CSS/Javascript, apo anasjelltas, nuk pranohen per mbrojtje.
+
+7. Mbrojtja do te behet ne menyre individuale. Vleresimi pozitiv nga mbrojtja behet vetem nese studenti arrin te mbroje punen e tij ne kontekstin full-stack (HTML, CSS, JS, PHP dhe MySQL).
+
+Dorezimi per pjesen e dyte te projektit duhet te behet deri me 24.01.2021 ne ora 23:59. Dorezimi i projekteve pas kesaj kohe nuk do te merret parasysh.
+
+Para dorezimit, projekti duhet te sistemohet dhe emerohet ne kete forme: 
+
+    Duhet qe databaza te exportohet ne nje file dhe se bashku me komplet folderin e projektit te vendoset ne zip/rar-file.
+    Zip/rar-file duhet te emerohet ne kete menyre: Emri_Mbiemri_Nr.ID-se.
+
+Mbrojtja e projekteve do te behet pas afatit te lartecekur, per daten dhe kohen do te njoftoheni me kohe.
+
+
