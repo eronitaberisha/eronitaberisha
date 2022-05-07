@@ -3,7 +3,7 @@
       <ul class="nav">
          <li class="nav-item">
             <a href="javascript:void(0)" class="nav-link">
-               About Fitim
+               About Eronita
             </a>
          </li>
          <li class="nav-item">
@@ -23,7 +23,7 @@
          <script>
             document.write(new Date().getFullYear())
          </script> made with <i class="tim-icons icon-heart-2"></i> by
-         <a href="javascript:void(0)">FITIM BYTYQI</a> for a better web.
+         <a href="javascript:void(0)">ERONITA BERISHA</a> for a better web.
       </div>
    </div>
 </footer>

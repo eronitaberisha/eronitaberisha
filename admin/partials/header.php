@@ -19,7 +19,7 @@ $profile_picture = $user["user_profile"];
    <meta charset="utf-8" />
    <meta name="keywords" content="HTML, CSS, JavaScript, PHP, MYSQL">
    <meta name="description" content="Projekti per Inxhinieri t'Webit">
-   <meta name="author" content="Fitim Bytyqi">
+   <meta name="author" content="Eronita Berisha">
    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
    <!-- FAVICON -->

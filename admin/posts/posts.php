@@ -4,7 +4,7 @@ $query->bindValue(":userid", $userid);
 $query->execute();
 $currentUser = $query->fetch(PDO::FETCH_ASSOC);
 
-if ($currentUser['username'] === 'fitimbyttyqi') {
+if ($currentUser['username'] === 'eronitaberisha') {
    $query = $connection->prepare("SELECT posts.*, users.username 
                               FROM posts LEFT JOIN users ON 
                               posts.post_author = users.user_id 

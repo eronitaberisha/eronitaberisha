@@ -6,7 +6,7 @@
    <meta charset="UTF-8">
    <meta name="keywords" content="HTML, CSS, JavaScript, PHP, MYSQL">
    <meta name="description" content="Projekti per Inxhinieri t'Webit">
-   <meta name="author" content="Fitim Bytyqi">
+   <meta name="author" content="Eronita Berisha">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
    <!-- TITLE -->
@@ -310,11 +310,11 @@
    <!-- FOOTER -->
    <footer id="footer">
       <div class="footer__copyright">
-         <p>&copy; 2020 - <?php echo date("Y"); ?> FITIM BYTYQI, All Right Reserved</p>
+         <p>&copy; 2020 - <?php echo date("Y"); ?> ERONITA BERISHA, All Right Reserved</p>
       </div>
 
       <div class="footer__socials">
-         <a href="https://facebook.com/fitimbyttyqi" target="_blank">
+         <a href="https://facebook.com/eronitaberisha" target="_blank">
             <i class="fab fa-facebook-f fa-1x"></i>
          </a>
          <a href="#">

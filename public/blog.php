@@ -11,7 +11,7 @@ $posts = $connection->query("SELECT posts.*, users.username, users.user_profile 
 	<meta charset="UTF-8">
 	<meta name="keywords" content="HTML, CSS, JavaScript, PHP, MYSQL">
 	<meta name="description" content="Projekti per Inxhinieri t'Webit">
-	<meta name="author" content="Fitim Bytyqi">
+	<meta name="author" content="Eronita Berisha">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- TITLE -->
@@ -85,7 +85,7 @@ $posts = $connection->query("SELECT posts.*, users.username, users.user_profile 
 		<footer class="tm-footer text-center">
 			<p>Copyright &copy; 2020 - <?php Date("Y"); ?> GROOVE APP
 
-				| Design: <a rel="nofollow" href="https://facebook.com/fitimbyttyqi" target="_blank">FITIM BYTYQI</a></p>
+				| Design: <a rel="nofollow" href="https://facebook.com/eronitaberisha" target="_blank">ERONITA BERISHA</a></p>
 		</footer>
 	</div>
 
