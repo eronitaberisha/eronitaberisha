@@ -1,6 +1,15 @@
 <?php
 $contacts = $connection->query("SELECT * FROM contacts")->fetchAll(PDO::FETCH_ASSOC);
+// DELETE 
+if (isset($_GET["delete_contact"])) {
+   $contact_id = $_GET['delete_contact'];
 
+   $query = $connection->prepare('DELETE FROM contacts WHERE contact_id = :id');
+   $query->bindValue(':id', $contact_id);
+   $query->execute();
+
+   header("location: ?id=contacts");
+}
 ?>
 
 
